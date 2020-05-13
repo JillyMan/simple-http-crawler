@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crawler.App", "Crawler\Crawler.App.csproj", "{702BB6CF-B354-44E9-AC58-8A734B98986F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{45E11A3D-255E-4828-83A2-F22A984D7079}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Debug|x64.ActiveCfg = Debug|x64
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Debug|x64.Build.0 = Debug|x64
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Release|x64.ActiveCfg = Release|x64
+		{702BB6CF-B354-44E9-AC58-8A734B98986F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{702BB6CF-B354-44E9-AC58-8A734B98986F} = {45E11A3D-255E-4828-83A2-F22A984D7079}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9543940-2131-453C-937B-85C8D76AF4E3}
+	EndGlobalSection
+EndGlobal

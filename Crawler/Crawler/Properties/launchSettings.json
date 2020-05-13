@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Crawler": {
+      "commandName": "Project",
+      "commandLineArgs": "-d 1 -m NotHigherThenCurrent -r bmp -v true --baseurl \"https://moz.com\" --starturl \"https://moz.com\""
+    }
+  }
+}
